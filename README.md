@@ -5,6 +5,8 @@ I build tools for software reliability and security—from AI test and dependenc
 ## Start here
 
 - **[MockGuard](https://github.com/adishxm/mockguard)** — A developer tool and CI guardrail detecting AI-generated tests that test mocks instead of real application behavior using static AST analysis and mutation testing. TypeScript.
+- **[TrustTrace](https://github.com/Anisha-Dubey/trusttrace)** — An evidence passport and web threat triage platform that separates transport encryption from organizational identity with deterministic verification coverage. Python / FastAPI.
+- **[ClaimCheck](https://github.com/narayan-nkj/claimcheck-retail-media)** — A deterministic pre-publication verification gate checking factual claims in retail advertising against timestamped merchant ground truth. TypeScript / Node.js.
 - **[OrbitScore](https://github.com/adishxm/orbitscore)** — A source-linked mission evidence organization and debris-mitigation copilot for small spacecraft teams with deterministic compliance evaluation. Python / FastAPI / TypeScript.
 - **[Musify-X](https://github.com/adishxm/Musify-X)** — A high-performance, zero-telemetry Android privacy browser powered by the Chromium/Brave engine with dynamic Day/Night adaptive icons and offline shields. TypeScript.
 - **[phantomdeps](https://github.com/adishxm/phantomdeps)** — A pre-install verification gate for checking package and symbol claims made by AI coding agents. TypeScript.
